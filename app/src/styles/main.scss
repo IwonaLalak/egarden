@@ -1,0 +1,13 @@
+.mycontainer{
+
+  border:1px solid red;
+  padding:15px;
+
+  .myitem{
+    background: red;
+
+    &:first-of-type{
+      color:white;
+    }
+  }
+}
