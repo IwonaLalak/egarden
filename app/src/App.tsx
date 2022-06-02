@@ -10,10 +10,8 @@ function App() {
 
         <Button>aaaa</Button>
         <div className='mycontainer'>
-          <div className='myitem'>item 1
-          </div>
-          <div className='myitem'>item 1
-          </div>
+          <div className='myitem'>item 1</div>
+          <div className='myitem'>item 1</div>
         </div>
         <Container>
           <Row>
