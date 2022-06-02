@@ -30,8 +30,6 @@ function App() {
         <hr/>
 
       <Sample />
-      <hr />
-            <Sample />
     </div>
   );
 }
