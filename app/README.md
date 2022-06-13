@@ -14,7 +14,7 @@ A web application game where you can have a virtual garden.
 
 ##### 1st stage - prepare to work, create basic models, create basic pick-plant-grow-harvest functionality
 
-- [ ] 1.0 - configure project & plan work
+- [x] 1.0 - configure project & plan work
 - [ ] 1.1 - create basic plant model with states: seeds (in storage, ready to plant), seedling (growing), overgrown (ready to collect), harvest (in storage, ready to sell or change to seeds) & create first plant (basil)  
 - [ ] 1.2 - create storage & show all seeds and plants there
 - [ ] 1.3 - create mechanism to pick plant/seeds
