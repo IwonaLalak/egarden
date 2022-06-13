@@ -14,16 +14,16 @@ A web application game where you can have a virtual garden.
 
 ##### 1st stage - prepare to work, create basic models, create basic pick-plant-grow-harvest functionality
 
-[ ] 1.0 - configure project & plan work
-[ ] 1.1 - create basic plant model with states: seeds (in storage, ready to plant), seedling (growing), overgrown (ready to collect), harvest (in storage, ready to sell or change to seeds) & create first plant (basil)  
-[ ] 1.2 - create storage & show all seeds and plants there
-[ ] 1.3 - create mechanism to pick plant/seeds
-[ ] 1.4 - create basic garden-matrix
-[ ] 1.5 - create possibility to "plant" seeds on garden-matrix
-[ ] 1.6 - create "grow" time mechanism
-[ ] 1.7 - create harvest mechanism
-[ ] 1.8 - create "harvest to seeds" transform mechanism
-[ ] 1.9 - create second type of plant (lettuce)
+- [ ] 1.0 - configure project & plan work
+- [ ] 1.1 - create basic plant model with states: seeds (in storage, ready to plant), seedling (growing), overgrown (ready to collect), harvest (in storage, ready to sell or change to seeds) & create first plant (basil)  
+- [ ] 1.2 - create storage & show all seeds and plants there
+- [ ] 1.3 - create mechanism to pick plant/seeds
+- [ ] 1.4 - create basic garden-matrix
+- [ ] 1.5 - create possibility to "plant" seeds on garden-matrix
+- [ ] 1.6 - create "grow" time mechanism
+- [ ] 1.7 - create harvest mechanism
+- [ ] 1.8 - create "harvest to seeds" transform mechanism
+- [ ] 1.9 - create second type of plant (lettuce)
 
 ##### 2nd stage - define user & profile, prepare levels functionality
 
